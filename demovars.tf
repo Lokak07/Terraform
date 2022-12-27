@@ -1,3 +1,3 @@
-module "demovars" {
-    source = "git::https://github.com/Lokak07/Terraform.git?ref=Tempo"
+module "demomodule" {
+  source = "git::https://github.com/zealvora/tmp-repo.git?ref=development"
 }
