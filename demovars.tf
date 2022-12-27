@@ -1,3 +1,3 @@
 module "demo" {
-    source = "https://github.com/Lokak07/Terraform"
+    source = "git::https://github.com/Lokak07/Terraform.git?ref=Tempo"
 }
